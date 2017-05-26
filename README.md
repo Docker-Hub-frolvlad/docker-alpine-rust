@@ -8,9 +8,9 @@ Rust Docker image
 This image is based on Alpine Linux image, which is only a 5MB image, and contains
 [Rust](https://www.rust-lang.org/) with [GCC](https://gcc.gnu.org/).
 
-This image download size is:
+Download size of this image is only:
 
-[![](https://badge.imagelayers.io/frolvlad/alpine-rust.svg)](https://imagelayers.io/?images=frolvlad/alpine-rust 'Get your own badge on imagelayers.io')
+[![](https://images.microbadger.com/badges/image/frolvlad/alpine-rust.svg)](http://microbadger.com/images/frolvlad/alpine-rust "Get your own image badge on microbadger.com")
 
 
 Usage Example
